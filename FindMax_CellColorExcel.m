@@ -1,4 +1,10 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Coded by: Himanshu Mittal
+% Contact: himanshu.mittal224@gmail.com
+% Available for Free Use 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %% Cell coloring upto columns defined by two alphabets i.e. 702 (26+676)
+
 clc;
 clear all;
 close all;
